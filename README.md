@@ -57,19 +57,19 @@ Data flows: UI → Orchestrator → Agents → OpenAI APIs → back through the 
 ## 🎯 Features & Screenshots
 
 ### 1. Lesson Generation
-![Lesson Screenshot](https://github.com/Shivanimurukannaiah/Language-Kannada-Tutor/commit/a8f413a51b26361f7012b762214288e35caafea4#diff-bbe460d8c4d9e5f0675b27c58741c1b0bc81c2238e3e41f0fec338e8d56ec7cc)
+![Lesson Screenshot](IMG_3445.JPG)
 Generate themed interrogative Kannada sentences.
 
 ### 2. Flashcards
-![Flashcard Screenshot](https://github.com/Shivanimurukannaiah/Language-Kannada-Tutor/commit/a8f413a51b26361f7012b762214288e35caafea4#diff-91192d9d60bf7311f739bd2127cbb62b008a3ce85d2841b7741fa07158d752d8)
+![Flashcard Screenshot](IMG_3444.JPG)
 Visual flashcards for each generated word.
 
 ### 3. Translation
-![Translate Screenshot](images/translate.png)
+![Translate Screenshot](IMG_3444.JPG)
 Translate English text into Kannada + transliteration.
 
 ### 4. Quiz
-![Quiz Screenshot]([images/quiz.png](https://github.com/Shivanimurukannaiah/Language-Kannada-Tutor/commit/a8f413a51b26361f7012b762214288e35caafea4#diff-bbe460d8c4d9e5f0675b27c58741c1b0bc81c2238e3e41f0fec338e8d56ec7cc))
+![Quiz Screenshot](IMG_3447.JPG)
 Multiple-choice quizzes on any topic.
 
 ---
