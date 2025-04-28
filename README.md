@@ -57,7 +57,7 @@ Data flows: UI → Orchestrator → Agents → OpenAI APIs → back through the 
 ## 🎯 Features & Screenshots
 
 ### 1. Lesson Generation
-![Lesson Screenshot](images/lesson.png)
+![Lesson Screenshot](<img width="1448" alt="Screenshot 2025-04-28 at 1 00 11 PM" src="https://github.com/user-attachments/assets/86c6fb6a-ce64-4be1-a380-b09c80191b48" />)
 Generate themed interrogative Kannada sentences.
 
 ### 2. Flashcards
